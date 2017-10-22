@@ -5,7 +5,7 @@ previous-page: /
 next-page: 1-2-brian-intro
 ---
 
-## 8 years ago, the City of Meridian purchased a silver bullet CMS
+### 8 years ago, the City of Meridian purchased a silver bullet CMS
 
 - Over 10,000 content pieces were published using this CMS
 - While web standards evolved, the CMS lagged behind
