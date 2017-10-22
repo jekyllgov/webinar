@@ -2,7 +2,7 @@
 title: Everything Is Data
 date: 2017-10-18
 previous-page: 2-6-industry-today
-next-page: 2-x-strategy
+next-page: 2-8-strategy
 ---
 
 ## Everything is data, and data is everything
