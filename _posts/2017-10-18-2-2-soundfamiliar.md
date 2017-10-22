@@ -2,7 +2,7 @@
 title: Sound Familiar?
 date: 2017-10-18 01:02
 previous-page: 2-1-define-the-problem
-next-page: 2-3-the-flaw
+next-page: 2-3-blackbox
 ---
 
 If this doesn't sound familiar, congratulations. Your organization isn't dysfunctional.
