@@ -1,5 +1,4 @@
 ---
-layout: default
 title: What's the problem?
 date: 2017-10-18 01:01
 ---
@@ -22,3 +21,6 @@ date: 2017-10-18 01:01
 - Heavily customized pages make content bad for applications that might need the same content. And they make redesigns harder.
 - Who knows the content well enough and has the time to keep it up to date?
 - Does IT have staff to integrate services into the site, or will they not touch the Content Management System?
+
+[Previous](){: .previous }
+[Next]({% link _posts/2017-10-18-2-2-soundfamiliar.md %}){: .next}
