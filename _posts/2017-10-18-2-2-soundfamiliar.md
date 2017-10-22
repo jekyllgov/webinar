@@ -1,9 +1,9 @@
 ---
 title: Sound Familiar?
 date: 2017-10-18 01:02
+previous-page: 2-1-define-the-problem
+next-page: 2-3-the-flaw
 ---
-
-# {{ page.title }}
 
 If this doesn't sound familiar, congratulations. Your organization isn't dysfunctional.
 
@@ -16,6 +16,3 @@ The website is still an afterthought. It may be seen as a way to save money, but
 - Keeping content up to date requires subject matter experts to know every piece of content their work could impact, and to know the process for keeping it up to date the moment a change occurs.
 
 **No city has all three.**
-
-[Previous]({% link _posts/2017-10-18-2-1-define-the-problem.md %}){: .previous }
-[Next]({% link _posts/2017-10-18-2-3-the-flaw.md %}){: .next }

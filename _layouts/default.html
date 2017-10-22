@@ -34,11 +34,13 @@
 			<div class="wrapper">
 				<section class="top-bar">
 					<!--{% include navigation.html %}-->
+
 				</section>
-				<section class="hero_search">
+				{% if page.show-title == true %}<h1>{{ page.title }}</h1>{% endif %}
+				{% if page.body_class == "show_hero_search" %}<section class="hero_search">
 					<h1>Drop Your CMS</h1>
 					<h4>For a secure and flexible content management strategy, sometimes the best answer is to get rid of the Content Management System.</h4>
-				</section>
+				</section>{% endif %}
 
 			</div>
 
@@ -48,8 +50,14 @@
 				{{ content }}
 			</div>
 		</section>
+		<footer>
+			<ul>
+				{% if page.previous-page %}<li><a href="/{{ page.prev-page }}">Previous</a></li>{% endif %}
+				{% if page.next-page %}<li><a href="/{{ page.next-page }}">Next</a></li>{% endif %}
+			</ul>
+		</footer>
 
-		
+
 		<script>
 			$(function() {
 				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
