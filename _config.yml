@@ -3,7 +3,7 @@
 
 title: Base
 url: "https://jekyllgov.github.io"
-baseurl:
+baseurl: /webinar
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
