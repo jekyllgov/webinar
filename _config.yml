@@ -54,8 +54,8 @@ defaults:
     scope:
       type: "posts"
     values:
-      layout: "post"
-      comments: true
+      layout: "default"
+      comments: false
   -
     scope:
       type: "sets"
