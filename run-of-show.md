@@ -1,3 +1,8 @@
+## Introduction
+
+- Welcome viewers. 
+- Today we will be discussing how getting rid of CMSes, moving back to static sites and deconstructing the usual purchasing process for websites can change the way we work.
+
 ## Define the problem
 
 * Regardless of what CMS you use, the act of choosing one is a heavy burden. 
