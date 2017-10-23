@@ -1,9 +1,16 @@
 ---
 title: What's the problem?
 date: 2017-10-18 01:01
-previous-page: 1-3-greg-intro
-next-page: 2-2-soundfamiliar
 ---
+
+## What are you buying in a CMS?
+
+1. User management (permissions and workflow)
+1. Editor software to interact with content
+2. A database to house the content
+3. Some way to stage/version control content
+4. A way to pull content into templates or skins
+5. (Usually) A tool for building form ... that usually just email you
 
 ## Sweeping declaration
 
@@ -11,14 +18,8 @@ next-page: 2-2-soundfamiliar
 
 ### Trade-offs
 
-- If it is good for users, it is bad for designers.
-- If it is good for designers, it is bad for users or developers.
-
-### Common Issues
-
-- Developers refuse to learn template languages.
-- Designers refuse to learn the backend language or APIs of developer-friendly systems.
-- Users won't follow style guides, but they want more freedom to make their pages "pop."
-- Heavily customized pages make content bad for applications that might need the same content. And they make redesigns harder.
-- Who knows the content well enough and has the time to keep it up to date?
-- Does IT have staff to integrate services into the site, or will they not touch the Content Management System?
+- Developers, designers and users have very different needs.
+- Too much custom design means content data can't be repurposed as easily for RSS feeds, native mobile applications, etc.
+- Too little custom design will infuriate users.
+- Too much designer control of output may limit what developers can do in the site.
+- Every function of a CMS is already handled by a variety of systems. How you combine these suites of software requires a strategy.
