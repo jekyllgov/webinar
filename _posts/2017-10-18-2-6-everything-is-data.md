@@ -1,7 +1,7 @@
 ---
 title: Everything Is Data
 date: 2017-10-18
-previous-page: 2-6-industry-today
+previous-page: 2-5-industry-changes
 next-page: 2-8-strategy
 ---
 
