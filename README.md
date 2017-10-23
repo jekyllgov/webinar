@@ -1,77 +1,19 @@
-# Base
+## What's here
 
-Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
+This repo contains all the files for a <a href="https://jekyllgov.github.io/webinar/" target="_blank">demo site</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, prepared for a webinar presented to the National Association of Government Web Professionals on Oct 24, 2017. 
 
-![Base template screenshot](images/_screenshot.png)
+Jekyll is a static site generator, combining the speed, security, and customizability of static web content with templating. 
 
-Base was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](https://learn.cloudcannon.com/jekyll-templates/).
+Most site content lives in the _posts folder; these markdown files serve as the slide deck for the webinar presentation. 
 
-Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Layouts are built with open-source template language <a href="https://shopify.github.io/liquid/" target="_blank">Liquid</a>. 
 
-## Features
+## Updating content 
 
-* Tutorials organised by category
-* Two types of tutorials - text and video
-* Ability to have a "tutorial series"
-* FAQ section
-* Disqus comments
-* Sticky sidebar for main headings in tutorials
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+More technical users can produce and edit content within Github or in their preferred text editor. 
 
-## Setup
+Less technical users can use a tool like <a href="https://cloudcannon.com/" target="_blank">CloudCannon</a>, which provides a GUI for authoring markdown files and inline editing of any HTML content the site developer has given **class="editable"**.
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+## Hosting
 
-## Develop
-
-Base was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Base is already optimised for adding, updating and removing tutorials, navigation, footer and FAQ information in CloudCannon.
-
-The sticky sidebar in tutorials in populated by pulling out `<h2>` elements from the content.
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* The tutorials page is organised by categories.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Post Series
-To create a new series:
-
-* Add a new document to the `sets` collection.
-* Set the `title` and `description`.
-
-To add a tutorial/post to a series:
-* Add a `set` field to the tutorial front matter which points to the file name of the desired set without the `.md` extention. e.g. If I have a set at `_sets/getting-started.md` I would use this in my tutorial front matter: `set: getting-started`.
-* Add a `set_order` field to the tutorial front matter and specify a number. This is the tutorials order in the set.
-
-### Navigation
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+Jekyll is the engine behind <a href="https://pages.github.com/" target="_blank">Github Pages</a>, which offers free hosting of Jekyll sites stored in Github repositories. This site is hosted for free on Github's servers. 
