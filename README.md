@@ -2,7 +2,7 @@
 
 This repo contains all the files for a <a href="https://jekyllgov.github.io/webinar/" target="_blank">demo site</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, prepared for a webinar presented to the National Association of Government Web Professionals on Oct 24, 2017. 
 
-Jekyll is a static site generator, combining the speed, security, and customizability of static web content with templating. 
+Jekyll is a static site generator, combining the speed, security, and customizability of static web content with templating and data integration. 
 
 Most site content lives in the _posts folder; these markdown files serve as the slide deck for the webinar presentation. 
 
