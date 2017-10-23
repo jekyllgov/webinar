@@ -1,0 +1,130 @@
+[
+ {
+   "first-name": "Cynthia",
+   "last-name": "Garcia",
+   "title": "Asst.Director",
+   "phone": 8525,
+   "responsibilities": "",
+   "tags": "management"
+ },
+ {
+   "first-name": "Marilyn",
+   "last-name": "Jackson",
+   "title": "Purchasing Manager",
+   "phone": 2059,
+   "responsibilities": "FMS, CMO",
+   "tags": "management"
+ },
+ {
+   "first-name": "Elizabeth",
+   "last-name": "Pietzsch",
+   "title": "Purchasing Supervisor",
+   "phone": 7648,
+   "responsibilities": "Water",
+   "tags": "management"
+ },
+ {
+   "first-name": "Cristina",
+   "last-name": "Camarillo",
+   "title": "Senior Buyer",
+   "phone": 8355,
+   "responsibilities": "Fire",
+   "tags": "management"
+ },
+ {
+   "first-name": "Randall ",
+   "last-name": "Stephens",
+   "title": "Purchasing Supervisor",
+   "phone": 6610,
+   "responsibilities": "",
+   "tags": "management"
+ },
+ {
+   "first-name": "Darian",
+   "last-name": "Gavin",
+   "title": "Buyer",
+   "phone": 2057,
+   "responsibilities": "HR, Library",
+   "tags": "contracts"
+ },
+ {
+   "first-name": "Jack",
+   "last-name": "Dale",
+   "title": "Senior Buyer",
+   "phone": 8357,
+   "responsibilities": "Police",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "Sheila",
+   "last-name": "Baker",
+   "title": "Senior Buyer",
+   "phone": 8356,
+   "responsibilities": "IT, Pub Events",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "Darla",
+   "last-name": "Powell-Miller",
+   "title": "Buyer",
+   "phone": 2058,
+   "responsibilities": "TPW, Planning & Development",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "John ",
+   "last-name": "PadinjaravilaBaby",
+   "title": "Buyer",
+   "phone": 2279,
+   "responsibilities": "Fleet",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "Blanca",
+   "last-name": "Sanchez-Robison",
+   "title": "Buyer",
+   "phone": 8354,
+   "responsibilities": "Property Mngmt",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "La'Kita",
+   "last-name": "Slack-Johnson",
+   "title": "Senior Buyer",
+   "phone": 8314,
+   "responsibilities": "Neighborhood Services, Audit, Court, Code, Economic Development",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "Jeff ",
+   "last-name": "Cope",
+   "title": "Buyer",
+   "phone": 8381,
+   "responsibilities": "Parks, Aviation",
+   "tags": "buyers"
+ },
+ {
+   "first-name": "Michelle ",
+   "last-name": "Green",
+   "title": "Vendor Administrator",
+   "phone": 8560,
+   "responsibilities": "Vendor Management",
+   "tags": "admin"
+ },
+ {
+   "first-name": "Laurena",
+   "last-name": "Hamilton",
+   "title": "Senior Account Technician",
+   "phone": 8321,
+   "responsibilities": "Administrative",
+   "tags": "admin"
+ },
+ {
+   "first-name": "Tracy",
+   "last-name": "Walter",
+   "title": "Procurement Card Administrator",
+   "phone": 6100,
+   "responsibilities": "Pcard",
+   "tags": "admin"
+ }
+]

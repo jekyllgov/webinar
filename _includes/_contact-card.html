@@ -1,0 +1,4 @@
+<tr>
+      <td><strong>{% if item.first-name == "" %}Vacant{% else %}<a href="mailto:{{ item.first-name | remove:" " }}.{{ item.last-name | remove:" " }}@fortworthtexas.gov">{{ item.first-name }} {{ item.last-name }}</a>{% endif %}, {{ item.title }}</strong><br />{{ item.responsibilities}}</td>
+      <td>817-392-{{ item.phone }}</td>
+</tr>
