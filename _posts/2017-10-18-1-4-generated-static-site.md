@@ -5,4 +5,4 @@ previous-page: 1-3-greg-intro
 next-page: 2-1-define-the-problem
 ---
 
-## [github.com/jekyllgov/webinar](github.com/jekyllgov/webinar)
+<a href="https://github.com/jekyllgov/webinar" target="_blank">github.com/jekyllgov/webinar</a>
