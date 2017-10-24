@@ -1,6 +1,8 @@
 ---
 title: Everything Is Data
 date: 2017-10-18
+previous-page: 2-3-industry-changes
+next-page: 3-1-demos
 ---
 
 ## Everything is data, and data is everything

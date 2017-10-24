@@ -1,6 +1,8 @@
 ---
 title: What's the problem?
 date: 2017-10-18 01:01
+previous-page: 1-4-generated-static-site
+next-page: 2-2-strategy
 ---
 
 ## What are you buying in a CMS?

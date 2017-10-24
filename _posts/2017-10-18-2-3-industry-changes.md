@@ -1,8 +1,8 @@
 ---
 title: Industry Changes
 date: 2017-10-18
-previous-page: 2-4-the-flaw
-next-page: 2-7-everything-is-data
+previous-page: 2-2-strategy
+next-page: 2-4-everything-is-data
 ---
 
 
